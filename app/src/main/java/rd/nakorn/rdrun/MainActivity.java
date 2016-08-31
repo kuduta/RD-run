@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         //Explicit
         private Context context;
         private String myUserString, myPasswordString;
-        private static final String urlJSON = "http://swiftcodingthai.com/rd/get_user_nk.php";
+        private static final String urlJSON = "http://swiftcodingthai.com/rd/get_user_master.php";
 
         //constructor name same name class
         public SynUser(Context context, String myUserString, String myPasswordString) {
